@@ -1,1 +1,1 @@
-# Data-Analysis-in-Excel-Airline-Data-
+# Data-Analysis-in-SQL-COVID-Deaths-
